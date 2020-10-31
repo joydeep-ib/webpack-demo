@@ -1,0 +1,20 @@
+{
+  "name": "00-basic",
+  "version": "1.0.0",
+  "description": "Basic Example for webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development -w",
+    "start": "serve"
+  },
+  "author": "joydeep@scaler.com",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.3.2",
+    "webpack-cli": "^4.1.0"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
