@@ -1,5 +1,3 @@
-
-
 function notify() {
   console.log('Mentor notified')
 }

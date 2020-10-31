@@ -1,0 +1,1 @@
+(()=>{"use strict";var r;(r=document.querySelector("#root")).innerHTML="<h1>Scaler Dashboard</h1>",r.innerHTML+="<p>Mentor Session Timeslots</p>",["9PM Today","3PM Tomorrow"].forEach((function(o){return r.innerHTML+="".concat(o," <br>")}))})();
